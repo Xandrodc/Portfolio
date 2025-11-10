@@ -1,0 +1,10 @@
+createCanvas(400,400);
+background("white");
+fill("black");
+square(0,0,200)
+square(200,200,200);
+circle(300,100,150);
+circle(100,300,150);
+fill("white");
+circle(100,100,150);
+circle(300,300,150);

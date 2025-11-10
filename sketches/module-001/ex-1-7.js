@@ -1,0 +1,12 @@
+createCanvas(400,400);
+background("black");
+fill("#646464");
+square(50,50,300);
+fill("#a1a1a1");
+square(50,50,250);
+fill("#c6c6c6");
+square(100,50,200);
+fill("#dcdcdc");
+square(150,100,150);
+fill("#eaeaea");
+square(150,150,100);

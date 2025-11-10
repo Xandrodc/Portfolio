@@ -1,0 +1,9 @@
+createCanvas(400,400);
+background("white");
+fill("lightgrey");
+noStroke();
+circle(200,200,300)
+fill("#969696");
+circle(200,200,200);
+fill("#646464");
+circle(200,200,100)

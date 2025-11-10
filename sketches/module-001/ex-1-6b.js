@@ -1,0 +1,9 @@
+createCanvas(400,400);
+background("white");
+fill("lightgrey");
+noStroke();
+square(50,50,300);
+fill("#969696");
+square(100,100,200);
+fill("#646464");
+square(150,150,100);

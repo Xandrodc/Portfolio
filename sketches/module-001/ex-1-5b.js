@@ -1,0 +1,14 @@
+createCanvas(400,400);
+background("white");
+noStroke();
+fill("red");
+square(0,0,200)
+fill("blue")
+square(200,200,200);
+fill("red")
+circle(300,100,150);
+fill("blue")
+circle(100,300,150);
+fill("white");
+circle(100,100,150);
+circle(300,300,150);

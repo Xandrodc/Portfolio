@@ -1,0 +1,16 @@
+createCanvas(400,400);
+background("#eeddff");
+fill("#cea3f9");
+circle(200,200,380);
+fill("#dbb7ff");
+circle(200,200,350);
+fill("#ffb846");
+triangle(200,26,343,300,57,300);
+fill("#ffd38e")
+triangle(57,100,343,100,200,375);
+fill("#ffef81")
+triangle(26,200,278,44,278,356);
+fill("#ffd463")
+triangle(374,200,122,44,122,356);
+fill("#ffc52b")
+circle(200,200,195);

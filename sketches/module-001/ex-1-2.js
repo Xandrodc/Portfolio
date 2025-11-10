@@ -1,0 +1,10 @@
+createCanvas(400,400);
+background("white");
+strokeWeight(2);
+circle(199,199,300)
+line(1,1,1,400);
+line(1,1,400,1);
+line(1,400,400,400);
+line(400,1,400,400);
+line(0,0,400,400);
+line(0,400,400,0)
