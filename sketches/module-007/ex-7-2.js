@@ -7,14 +7,14 @@ let xPositions = [];
 let yPositions = [];
 
 function setup() {
-    createCanvas(400, 400);
+    createCanvas(windowWidth, windowHeight );
     background(0, 0, 0);
     fill(0, 255, 0);
     for (let i = 0; i < n; i++) {
         xPositions[i] = random(width);
         yPositions[i] = random(height);
     }
-    output(xPositions);
+
 }
 
 function draw() {
