@@ -5,7 +5,7 @@
     let h = 0;
 function setup(){
     createCanvas(400,400);
-colorMode(HSB);
+    colorMode(HSB);
     noStroke();
     fill("red");
 }
